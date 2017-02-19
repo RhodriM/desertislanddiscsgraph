@@ -5,7 +5,7 @@ One file with artists as nodes and castaways as edges and one file with castaway
 
 GML files can be opened by Mathematica, Gephi etc.
 
-ODbL licence.
+ODbL licence (attribute, share-alike, keep open)
 
 https://en.wikipedia.org/wiki/Graph_Modelling_Language
 
