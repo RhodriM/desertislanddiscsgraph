@@ -3,7 +3,7 @@ Graphs of desert island discs data (2003-2010) taken from the Guardian datablog.
 
 One file with artists as nodes and castaways as edges and one file with castaways as nodes and artists as edges.
 
-GML files can be opened by Mathematica, Gephi etc.
+GML (Graph Modelling Language) files can be opened by Mathematica, Gephi etc.
 
 ODbL licence (attribute, share-alike, keep open)
 
